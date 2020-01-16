@@ -18,7 +18,7 @@ Okay, so let's get started. [Click here][azure]. You need either a valid credit 
 1. Feel free to do the tour. It takes a minute or so
 1. In the side bar, click App Services. App Services is the cloud option for deploying web applications from Microsoft. What's cool about it is that it automatically manages the scaling for you. What that means is that if you website gets really popular, it'll spin up more servers for you and you don't have to do anything. It just does it for you. Once the popularity dies down, it'll spin it back down to one server for you
 1. Click create app service
-1. Click Web App. If you don't see it, search for it. There are other types of apps you can do, but we're going to do an empty web app we're going to conenct to GitHub.
+1. Click Web App. If you don't see it, search for it. There are other types of apps you can do, but we're going to do an empty web app we're going to connect to GitHub.
 1. Click the Create button
    1. Name your app. I'm calling mine `intro-to-web-dev`. You will have to call it something else because I took that name. :D
    1. Leave it under the free trial subscription
